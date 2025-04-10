@@ -191,6 +191,9 @@ Link to full paper: https://www.researchgate.net/publication/377201036_Sentiment
 ## Project Implementation
 This Movie Recommendation System employs a **content-based filtering** methodology. This approach recommends movies by analyzing the content features of items and matching them to user preferences. In this implementation, the system utilizes Term Frequency-Inverse Document Frequency (**TF-IDF**) vectorization to process movie overviews, transforming them into numerical representations. Additionally, it applies one-hot encoding to represent movie genres. These feature vectors are then combined and the **cosine similarity** metric is used to measure the similarity between movies. When a user selects a movie, the system calculates similarity scores between the chosen movie and others in the dataset, recommending those with the highest similarity scores.
 
+<div align="center">   <img src="https://github.com/user-attachments/assets/67596a8e-1153-4812-ae1e-26e54d7a4f21" alt="Custom Icon" width="1050" height="400">  </div>
+
+
 ### Dataset
 
 - **Source:** [Top Rated TMDB Movies (10K) on Kaggle](https://www.kaggle.com/datasets/ahsanaseer/top-rated-tmdb-movies-10k)  
