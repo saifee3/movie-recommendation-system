@@ -1,4 +1,5 @@
 # 🎥 Movie Recommendation System
+<div align="center">   <img src="https://github.com/user-attachments/assets/83013b61-4213-462a-8842-50013c822071" alt="Custom Icon" width="1050" height="400">  </div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
@@ -17,6 +18,8 @@ A content and genre-based movie recommender built on the Top Rated TMDB Movies (
 ## 1. Recommendation Systems
 
 Recommendation systems are information filtering tools designed to predict and present items of interest to users. They analyze patterns within data to suggest products, services, or information that align with individual preferences. These systems have become integral in enhancing user experience across various platforms by personalizing content delivery.
+
+<div align="center">   <img src="https://github.com/user-attachments/assets/fe3f204b-ae5c-4e55-87c8-1028be4dd355" alt="Custom Icon" width="600" height="350">  </div>
 
 ***Historical Context and Evolution:***
 
@@ -49,6 +52,8 @@ For businesses, effective recommendation systems can lead to increased sales, hi
 
 This approach recommends items by analyzing the content of items and a user's profile. It assumes that if a user liked an item in the past, they would prefer similar items in the future. For instance, if a user watches science fiction movies, the system will recommend other movies within the same genre. 
 
+<div align="center">   <img src="https://github.com/user-attachments/assets/a28d3707-08b4-40ff-89f6-8b3062aa5781" alt="Custom Icon" width="350" height="350">  </div>
+
 ***2. Collaborative Filtering:***
 
 Collaborative filtering methods make recommendations based on the behavior and preferences of similar users. There are two main types:
@@ -57,9 +62,13 @@ Collaborative filtering methods make recommendations based on the behavior and p
 
 - **Item-Based Collaborative Filtering:** Finds items that are similar to those the user has shown interest in and recommends them.
 
+  <div align="center">   <img src="https://github.com/user-attachments/assets/31e50527-8c34-47ab-86cc-f2bd975aff22" alt="Custom Icon" width="450" height="350">  </div>
+
 ***3. Hybrid Approaches:***
 
 Hybrid recommendation systems combine content-based and collaborative filtering methods to leverage the strengths of both. By doing so, they aim to provide more accurate and diverse recommendations. 
+
+<div align="center">   <img src="https://github.com/user-attachments/assets/9ae98ebf-a3c2-4bd2-96f1-3aa0dc8e7b5a" alt="Custom Icon" width="700" height="350">  </div>
 
 ***4. Knowledge-Based Systems:***
 
@@ -175,10 +184,12 @@ Recommendation systems collect and process personal data, which raises important
 
 ## Sentiment Based Product Recommendation System Steps
 
+<div align="center">   <img src="https://github.com/user-attachments/assets/2d499a4e-ba06-4ce0-b603-25b7eaa4e761" alt="Custom Icon" width="1050" height="400">  </div>
 
 Link to full paper: https://www.researchgate.net/publication/377201036_Sentiment_Based_Product_Recommendation_System_Using_Machine_Learning_Techniques
 
 ## Project Implementation
+This Movie Recommendation System employs a **content-based filtering** methodology. This approach recommends movies by analyzing the content features of items and matching them to user preferences. In this implementation, the system utilizes Term Frequency-Inverse Document Frequency (**TF-IDF**) vectorization to process movie overviews, transforming them into numerical representations. Additionally, it applies one-hot encoding to represent movie genres. These feature vectors are then combined and the **cosine similarity** metric is used to measure the similarity between movies. When a user selects a movie, the system calculates similarity scores between the chosen movie and others in the dataset, recommending those with the highest similarity scores.
 
 ### Dataset
 
