@@ -173,6 +173,11 @@ Recommendation systems collect and process personal data, which raises important
 - **Regulatory Compliance:**  
   Ensure that the system complies with data protection regulations such as GDPR or CCPA, which govern how personal data is collected, stored, and processed.
 
+## Sentiment Based Product Recommendation System Steps
+
+
+Link to full paper: https://www.researchgate.net/publication/377201036_Sentiment_Based_Product_Recommendation_System_Using_Machine_Learning_Techniques
+
 ## Project Implementation
 
 ### Dataset
