@@ -318,7 +318,7 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
   
     Image 4: https://www.mdpi.com/2076-3417/13/23/12774
   
-    Image 5: https://www.researchgate.net/publication/377201036_Sentiment_Based_Product_Recommendation_System_Using_Machine_Learning_Techniques
+  
   
     
 
