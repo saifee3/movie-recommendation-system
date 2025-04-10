@@ -307,6 +307,14 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 - **Python Icon:** [Python Software Foundation](https://www.python.org/)
 - **Streamlit Icon:** [Streamlit](https://streamlit.io/)
 - **Scikit-learn Icon:** [scikit-learn](https://scikit-learn.org/)
+- Banner Image by **Real Python** on https://realpython.com/build-recommendation-engine-collaborative-filtering/
+- Other Images Sources:
+    Image 1: https://www.researchgate.net/figure/Structure-of-a-recommender-system_fig2_220827211
+    Image 2: https://www.stratascratch.com/blog/step-by-step-guide-to-building-content-based-filtering/
+    Image 3: https://medium.com/@ashmi_banerjee/understanding-collaborative-filtering-f1f496c673fd
+    Image 4: https://www.mdpi.com/2076-3417/13/23/12774
+    Image 5: https://www.researchgate.net/publication/377201036_Sentiment_Based_Product_Recommendation_System_Using_Machine_Learning_Techniques
+    
 
 
 
