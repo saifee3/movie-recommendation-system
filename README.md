@@ -292,14 +292,6 @@ tmdb-movie-recommender/
 - scikit-learn  
 - scipy  
 
-## Contributing
-
-1. Fork the repository  
-2. Create a feature branch (`git checkout -b feature/foo`)  
-3. Commit your changes (`git commit -m "Add feature"`)  
-4. Push to the branch (`git push origin feature/foo`)  
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
