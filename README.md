@@ -303,10 +303,6 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ## Credits
 
-- **MIT License Icon:** [Open Source Initiative](https://opensource.org/)
-- **Python Icon:** [Python Software Foundation](https://www.python.org/)
-- **Streamlit Icon:** [Streamlit](https://streamlit.io/)
-- **Scikit-learn Icon:** [scikit-learn](https://scikit-learn.org/)
 - Banner Image by **Real Python** on https://realpython.com/build-recommendation-engine-collaborative-filtering/
 - Other Images Sources:
   
